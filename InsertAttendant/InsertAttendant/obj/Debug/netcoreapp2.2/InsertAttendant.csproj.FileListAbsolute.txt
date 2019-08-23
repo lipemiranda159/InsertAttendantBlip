@@ -1,0 +1,11 @@
+D:\Users\felipem\source\repos\InsertAttendant\InsertAttendant\bin\Debug\netcoreapp2.2\InsertAttendant.deps.json
+D:\Users\felipem\source\repos\InsertAttendant\InsertAttendant\bin\Debug\netcoreapp2.2\InsertAttendant.runtimeconfig.json
+D:\Users\felipem\source\repos\InsertAttendant\InsertAttendant\bin\Debug\netcoreapp2.2\InsertAttendant.runtimeconfig.dev.json
+D:\Users\felipem\source\repos\InsertAttendant\InsertAttendant\bin\Debug\netcoreapp2.2\InsertAttendant.dll
+D:\Users\felipem\source\repos\InsertAttendant\InsertAttendant\obj\Debug\netcoreapp2.2\InsertAttendant.csprojAssemblyReference.cache
+D:\Users\felipem\source\repos\InsertAttendant\InsertAttendant\obj\Debug\netcoreapp2.2\InsertAttendant.csproj.CoreCompileInputs.cache
+D:\Users\felipem\source\repos\InsertAttendant\InsertAttendant\obj\Debug\netcoreapp2.2\InsertAttendant.AssemblyInfoInputs.cache
+D:\Users\felipem\source\repos\InsertAttendant\InsertAttendant\obj\Debug\netcoreapp2.2\InsertAttendant.AssemblyInfo.cs
+D:\Users\felipem\source\repos\InsertAttendant\InsertAttendant\bin\Debug\netcoreapp2.2\InsertAttendant.pdb
+D:\Users\felipem\source\repos\InsertAttendant\InsertAttendant\obj\Debug\netcoreapp2.2\InsertAttendant.dll
+D:\Users\felipem\source\repos\InsertAttendant\InsertAttendant\obj\Debug\netcoreapp2.2\InsertAttendant.pdb
